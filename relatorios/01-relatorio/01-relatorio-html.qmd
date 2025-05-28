@@ -2,7 +2,7 @@
 title: "Caso Junglivet Whisky Company"
 subtitle: "Introdução à CRISP-DM, RStudio, Sistema Quarto e Linguagem R"
 lang: pt-BR
-author: "Seu Nome"
+author: "Pablo Silva"
 date: 2025-04-02
 format: 
   html:

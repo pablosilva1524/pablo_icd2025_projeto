@@ -1,7 +1,7 @@
 ---
 title: "Resolucão da Avaliação 1"
 subtitle: "Introdução à Ciência de Dados - 2025 <br> Bacharelado em Administração"
-author: "WEVERTON RODRIGUES"
+author: "PABLO SILVA"
 title-block-banner: "#27445C"
 format:
   html:
